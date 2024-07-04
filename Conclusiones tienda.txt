@@ -1,0 +1,5 @@
+- Al realizar la compra de los dos productos, no es necesario realizar un loguin por ser pagina de pruebas lo cual facilita que la ejecucion sea de inmediato.
+La prueba automatizada es eficiente al completar las compras con la automatizacion puede procesar a realizar  pruebas de manera rápida 
+y sin errores mejorando el tiempo de entrega de la certificacion.
+
+
